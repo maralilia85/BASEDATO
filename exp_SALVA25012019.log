@@ -1,0 +1,7 @@
+
+EXP-00056: ORACLE error 28002 encountered
+ORA-28002: the password will expire within 7 days
+Connected to: Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
+EXP-00023: must be a DBA to do Full Database or Tablespace export
+EXP-00030: Unexpected End-Of-File encountered while reading input
+EXP-00000: Export terminated unsuccessfully
